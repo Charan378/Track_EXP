@@ -26,7 +26,7 @@ A modern full-stack web application to track your expenses, investments, and sav
 #### 1. Clone the repository
 ```bash
 git clone <your-repo-url>
-cd exp_traker
+cd Track_EXP
 ```
 
 #### 2. Backend Setup

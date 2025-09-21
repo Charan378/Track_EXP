@@ -1,4 +1,4 @@
-# Finance Tracker (Trac_EXP)
+# Finance Tracker (Track_EXP)
 
 A modern full-stack web application to track your expenses, investments, and savings, powered by AI-driven insights and actionable recommendations.
 
